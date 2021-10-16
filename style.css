@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+header{
+    background-image:linear-gradient(rgb(255, 255, 255,0.2),rgba(0, 60, 255, 0.5)),url(bg.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+    z-index: -1;
+     
+
+}
+.nav-bar{
+    background: rgb(rgba(218, 215, 215, 0.904));
+    height: 80px;
+    z-index: 1;
+
+}
+.logo{
+    margin: 20px 50px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.menu{
+    float: right;
+    list-style: none;
+    margin: 20px;
+    
+}
+.menu li{
+    display: inline-block;
+    margin: 10px 5px;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    border: 1px sold white;
+    padding: 5px 10px;
+    letter-spacing: 2px;
+    border: 0.2px solid rgb(255, 253, 253);
+    border-radius: 4px;
+    font-family: 'Poppins', sans-serif;
+}
+.menu li a:hover{
+    color: rgb(0, 0, 0);
+    transition: 0.5s;
+    background: rgb(255, 255, 255);
+}
+.welcome{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    top: 150px;
+    left: 480px;
+}
+.welcome h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Ephesis', cursive;
+}
+.welcome .btn{
+    display: inline-block;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-decoration:none;
+    border: 1px solid rgb(255, 255, 255);
+    color: white;
+    padding: 5px 10px;
+    letter-spacing: 2px;
+    border-radius: 4px;
+    margin: 5px 7px;
+}
+.welcome .btn:hover{
+    color: rgb(0, 0, 0);    
+    background: rgb(255, 255, 255);
+    transition: 0.5s;
+    
+}
+.content{
+    background: black;
+    height: 100vh;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+}
+.content h1{
+    margin-top: 50px;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content>p{
+    font-size: 12px;
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 4px;
+}
+.card-content{
+    border:1px solid white;
+    margin: 15px;
+    box-shadow: 0 5px 15px 0px rgb(1, 1, 255);
+    height: 300px;
+    width: 300px;
+    border-radius: 8px;
+}
+
+.card-content hr{
+    width: 120px;
+    display: inline-block;
+    align-items: center;
+    margin-top: 2px;
+}
+
+.card-content:hover{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 60, 255, 0.5));
+    transition: 0.5s;
+}
+.footer-base{
+    height: 30vh;
+    color: rgb(0, 0, 0);  
+}
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    margin-top: 10px;
+}
+.icons{
+    height: 30px;
+    margin: 18px 10px;
+    cursor: pointer;
+}
