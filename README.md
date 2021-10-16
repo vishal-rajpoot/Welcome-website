@@ -4,14 +4,14 @@ It is a simple welcome website created with the help of HTML and CSS
 
 
 
+![image](https://user-images.githubusercontent.com/51801088/137584734-ef667b17-b40d-45d3-9d69-6f5b1cbef8fa.png)
 
 
-![image](https://user-images.githubusercontent.com/51801088/137584687-0257dec0-bca4-4453-b92d-5e43fb5c28da.png)
+
+![image](https://user-images.githubusercontent.com/51801088/137584747-ed43bc30-f146-4123-9c2a-4764d89be6a4.png)
 
 
-![image](https://user-images.githubusercontent.com/51801088/137584692-f56575e2-7c44-42e3-a3d0-726285bfd5d3.png)
 
-
-![image](https://user-images.githubusercontent.com/51801088/137584698-2f3664b3-aa07-4ac8-ad98-024d897fb197.png)
+![image](https://user-images.githubusercontent.com/51801088/137584751-b30af617-3f27-4568-818a-ec8e9a1b9b52.png)
 
 
